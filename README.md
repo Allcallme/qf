@@ -1,1 +1,1 @@
-# qf
+This data set is a supply chain data set of a company in the United States. The data set was previously public data for the company project, and now the project is hidden, but the project data set shown can still be used for practice.
